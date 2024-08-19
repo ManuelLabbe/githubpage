@@ -18,10 +18,9 @@ minimal: true             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html"}
   - {file: "README.md"}
-  - {file: "categories.html", title: "Categorías"}
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:labbemanuel@yahoo.es"}
-  - {title: Github, icon: github, url: "https://github.com/ManuelLabbe/"}
+#  - {title: Github, icon: github, url: "https://github.com/ManuelLabbe/"}
 #  - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
